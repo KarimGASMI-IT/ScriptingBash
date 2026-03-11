@@ -219,7 +219,8 @@ Plusieurs améliorations pourraient être ajoutées :
 ---
 
 ## Auteur
-
-Étudiant en **Master Systèmes, Réseaux et Cloud Computing**
+Karim GASMI
+Étudiant en Informatique
+Ce projet à été réalisé dans le cadre de mon Bachelor **Administration Systèmes, Réseaux et Sécurité**
 
 Formation initiale : **Bachelor Administration Systèmes, Réseaux et Sécurité**
